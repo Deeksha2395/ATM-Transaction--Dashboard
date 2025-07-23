@@ -77,7 +77,7 @@ Data was collected from various sources including ATM transaction logs, maintena
 3. **Transaction Trends**: Monitoring the trends in financial and non-financial transactions can help in predicting future transaction volumes and preparing accordingly.
 4. **Performance Metrics**: Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
 
-5. ## Importance of These Insights
+## Importance of These Insights
 
 - **Operational Efficiency**: Identifying cost drivers and optimizing maintenance costs can significantly enhance operational efficiency.
 - **Strategic Planning**: Revenue insights assist in making informed decisions about resource allocation and marketing strategies.
