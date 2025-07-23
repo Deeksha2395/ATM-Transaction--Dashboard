@@ -55,4 +55,4 @@ This line chart shows the trend of total transactions over time, specifically hi
 - **November 2024**
 
 ## Detailed Analysis
-![Detailed Analysis Dashboard] [Dashboard.md](url)
+![Detailed Analysis Dashboard] https://github.com/Deeksha2395/ATM-Transaction--Dashboard/blob/main/Dashboard.md
